@@ -1,8 +1,8 @@
-package com.venvo.pattern.facade;
+package com.venvo.demo.generic.pattern.facade;
 
-import com.venvo.pattern.facade.subclasses.BrickWorker;
-import com.venvo.pattern.facade.subclasses.Mason;
-import com.venvo.pattern.facade.subclasses.BrickLayer;
+import com.venvo.demo.generic.pattern.facade.subclasses.BrickWorker;
+import com.venvo.demo.generic.pattern.facade.subclasses.Mason;
+import com.venvo.demo.generic.pattern.facade.subclasses.BrickLayer;
 
 public class LoabourContractor {
 

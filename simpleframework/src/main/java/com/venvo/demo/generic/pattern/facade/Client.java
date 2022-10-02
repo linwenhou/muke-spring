@@ -1,4 +1,4 @@
-package com.venvo.pattern.facade;
+package com.venvo.demo.generic.pattern.facade;
 
 public class Client {
     public static void main(String[] args) {

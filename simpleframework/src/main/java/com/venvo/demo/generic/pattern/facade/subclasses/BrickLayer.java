@@ -1,4 +1,4 @@
-package com.venvo.pattern.facade.subclasses;
+package com.venvo.demo.generic.pattern.facade.subclasses;
 
 public class BrickLayer {
     public void neat() {
